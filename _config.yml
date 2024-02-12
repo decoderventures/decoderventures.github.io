@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Decoder Ventures
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Aakash Desai
+  email: investment@decoder.ventures
+description: "Decoder Ventures - Home"
 
 # Build settings
 remote_theme: jekyll/minima
